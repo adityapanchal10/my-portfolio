@@ -2,7 +2,7 @@
 name: Aditya Devendra Panchal
 shortname: Aditya
 avatar: /static/avatar.jpg
-occupation: Working Student @ Siemens AG
+occupation: Working Student, Siemens AG, Berlin.
 company: Siemens AG
 resume: /static/CV_Aditya.pdf
 email: panchaladitya007@gmail.com
