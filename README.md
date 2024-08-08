@@ -4,4 +4,4 @@
 
 - 🌐 Visit Here: https://aditya-panchal.vercel.app/
 
-- 🛠 Built with [Nextjs](https://www.vercel.com/), using the template [*Tailwind Next JS Starter Blog*](https://github.com/timlrx/tailwind-nextjs-starter-blog), and hosted on [Vercel](https://www.vercel.com/)
+- 🛠 Built with [Nextjs](https://nextjs.org/), using the template [*Tailwind Next JS Starter Blog*](https://github.com/timlrx/tailwind-nextjs-starter-blog), and hosted on [Vercel](https://www.vercel.com/)
