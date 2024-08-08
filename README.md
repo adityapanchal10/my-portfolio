@@ -1,6 +1,6 @@
 ## My Portfolio 🚀
 
-![Vercel Deploy](https://deploy-badge.vercel.app/vercel/aditya-panchal?style=for-the-badge)
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/aditya-panchal?style=for-the-badge)](https://aditya-panchal.vercel.app/)
 
 - 🌐 Visit Here: https://aditya-panchal.vercel.app/
 
