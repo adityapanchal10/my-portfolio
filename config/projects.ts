@@ -116,7 +116,7 @@ export const projects: Project[] = [
       '/static/projects/healthymom/ss7.png',
     ],
     deployment: {
-      web: 'https://healthymom.streamlit.app',
+      web: 'https://healthy-mom.streamlit.app',
     },
     subProjects: [],
   },
