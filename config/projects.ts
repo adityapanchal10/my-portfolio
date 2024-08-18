@@ -91,7 +91,7 @@ export const projects: Project[] = [
   {
     title: 'Maternal Health Risk Prediction',
     slug: 'healthymom',
-    website: 'https://healthymom.streamlit.app',
+    website: 'https://healthy-mom.streamlit.app',
     repository: {github: 'https://github.com/adityapanchal10/maternal-risk-app'},
     banner: '/static/projects/healthymom/banner.png',
     description:
