@@ -12,9 +12,9 @@ github: https://github.com/adityapanchal10
 
 Detail Oriented Master's student, studying **Data Science** at **Freie Universität Berlin**, with a passion for engineering.
 
-**<u>My Interests</u>**: Machine Learning, Explainable AI, Gen-AI, and Deep Learning. 
+**<u>My Interests</u>**: Machine Learning, Explainable AI, Gen-AI, and Deep Learning.
 
-Currently, I am a **Working Student** in **R&D** at **Siemens AG**, focusing on conformance testing for the *IEC 61850* electronic communications standard.
+Currently, I am a **Working Student** in **R&D** at **Siemens AG**, focusing on conformance testing for the _IEC 61850_ electronic communications standard.
 
 Previously, I was a Working Student in the **Department of Veterinary Medicine** at **Ludwig-Maximilians-Universität, München**. Being a member of the 'Populations Genomic Group', I contributed to the creation of a pipeline for combined Linkage Disequilibrium and Linkage Analysis (cLDLA) helpful for gene-trait mapping. I also worked on a phylogeny project for outlier detection in a given popluation.
 

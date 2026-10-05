@@ -11,5 +11,4 @@ const config: Config = {
   projects,
 };
 
-
 export default config;

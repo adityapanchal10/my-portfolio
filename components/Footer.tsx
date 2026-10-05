@@ -35,7 +35,7 @@ const Footer = () => {
   return (
     <div className='mt-4 flex flex-col items-center py-8 font-light dark:text-white lg:py-8'>
       <SocialIcons />
-      <span className='mt-4 text-xs font-light lg:mt-8 text-gray-400'>
+      <span className='mt-4 text-xs font-light text-gray-400 lg:mt-8'>
         {randomQuote}
       </span>
       <span className='mt-4 text-xs font-light lg:mt-8'>

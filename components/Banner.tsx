@@ -6,16 +6,16 @@ import { AuthorFrontMatter } from 'types/AuthorFrontMatter';
 import React, { useState, useEffect } from 'react';
 
 const greetings = [
-  "Hi",
-  "Hallo",
-  "કેમ છો",
-  "Moin",
-  "Servus",
-  "Bonjour",
-  "Ciao",
-  "नमस्ते",
-  "こんにちは",
-  "Grüß Gott"
+  'Hi',
+  'Hallo',
+  'કેમ છો',
+  'Moin',
+  'Servus',
+  'Bonjour',
+  'Ciao',
+  'नमस्ते',
+  'こんにちは',
+  'Grüß Gott',
 ];
 
 interface BannerProps {
@@ -29,7 +29,7 @@ function Banner(props: BannerProps): React.ReactElement {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      setCurrentGreeting((prevGreeting) => (prevGreeting + 1) % greetings.length);
+      setCurrentGreeting(prevGreeting => (prevGreeting + 1) % greetings.length);
     }, 2000); // Change greeting every 2 seconds
 
     return () => clearInterval(interval); // Cleanup interval on component unmount
