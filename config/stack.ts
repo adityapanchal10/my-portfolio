@@ -60,7 +60,7 @@ export enum Stack {
   altair,
   plotly,
   streamlit,
-  explainerdash
+  explainerdash,
 }
 
 export const WorkStack = [

@@ -21,7 +21,9 @@ function Contact(): React.ReactElement {
             chat? Feel free to
             <span
               className='ml-2 cursor-pointer !font-normal !text-black !no-underline dark:!text-white'
-              onClick={() => window.location.href = 'mailto:panchaladitya007@gmail.com'}
+              onClick={() =>
+                (window.location.href = 'mailto:panchaladitya007@gmail.com')
+              }
               role='button'
               tabIndex={0}
             >
@@ -33,7 +35,7 @@ function Contact(): React.ReactElement {
                 animationDuration={2000}
                 color={randomColor}
               >
-              email me  :)
+                email me :)
               </RoughNotation>
             </span>
           </p>

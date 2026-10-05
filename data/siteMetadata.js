@@ -2,8 +2,7 @@ const siteMetadata = {
   title: 'Aditya Panchal',
   author: 'Aditya Panchal',
   headerTitle: 'Aditya Panchal',
-  description:
-    'Trying to do better...',
+  description: 'Trying to do better...',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: '',

@@ -121,7 +121,7 @@ export default function Project({
         <H2 className='my-4'>Link</H2>
         <RepositoryList repositories={repository} />
       </Conditional>
-      
+
       <Conditional condition={hasDeployments}>
         <H2 className='my-4'>Deployments</H2>
         <DeploymentList deployment={deployment} />
@@ -138,7 +138,6 @@ export default function Project({
       </Conditional>
 
       <Conditional condition={hasSubProjects}>
-        
         <H2 className='mt-10'>Sub-Project(s)</H2>
         {React.Children.toArray(subProjects.map(renderSubProjectList))}
       </Conditional>

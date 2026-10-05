@@ -20,6 +20,7 @@ import LayoutWrapper from '@/components/LayoutWrapper';
 import siteMetadata from '@/data/siteMetadata';
 
 import { GeistProvider } from '@geist-ui/core';
+import { Analytics } from '@vercel/analytics/react';
 
 const isDevelopment = process.env.NODE_ENV === 'development';
 const isSocket = process.env.SOCKET;
@@ -36,6 +37,7 @@ export default function App({ Component, pageProps }: AppProps) {
           <Component {...pageProps} />
         </LayoutWrapper>
       </GeistProviderWithTheme>
+      <Analytics />
     </ThemeProvider>
   );
 }
